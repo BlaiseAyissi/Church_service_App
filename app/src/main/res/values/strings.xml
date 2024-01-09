@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">church</string>
+    <string name="imageBtnTxt">imageBtnTxt</string>
+    <string name="cantique">Cantique</string>
+    <string name="eds">EDS</string>
+    <string name="programme">Programme Sabbat</string>
+    <string name="church">Church</string>
+    <string name="bible">BIBLE</string>
+    <string name="old_testament">Old testament</string>
+    <string name="new_testament">New Testament</string>
+    <string name="bible_reading_program">Bible reading program</string>
+    <string name="image_arrow">image arrow</string>
+    <string name="hymnes_et_louanges">Hymnes Et Louanges</string>
+    <string name="la_bible">La Bible</string>
+</resources>
